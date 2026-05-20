@@ -14,7 +14,7 @@ In particular, the two musical axes chosen for this work, rock and chorus, are i
 Conversely, "Will I," sung at an AIDS support group meeting, demonstrates the process of overcoming the dread of social death through choral harmony. The lonely, fearful questions, "Will I lose my dignity? Will someone care?" begin as an individual solo, but soon expand into a polyphonic canon structure as other patients' voices layer on top of one another. This erases the agonizing isolation of dying alone in a dark room, transforming it into the resounding echo of a community sharing the same burden of pain.
 
 In this work, music exposes the violent disruption that HIV/AIDS inflicts on the body and daily life, yet it brings private suffering into the public sphere through explosive and communal genres like rock and choral singing. By not confining illness to mere medical despair but elevating it into a collective outcry for life and dignity, Rent serves as a powerful testament to how art can become the patient's voice and facilitate social healing.
-<img src="./image_of_Rent.png" alt="descriptinon" style="width:25%;" />
+<img width="1408" height="768" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
 
 # 렌트
 
@@ -24,4 +24,4 @@ In this work, music exposes the violent disruption that HIV/AIDS inflicts on the
 반면 에이즈 환자 모임에서 불리는 "Will I"는 개인이 처한 '사회적 죽음'의 공포를 합창을 통해 극복하는 과정을 보여줍니다. "내가 존엄성을 잃게 될까요? 누군가 날 돌봐줄까요?"라는 외롭고 두려운 질문은 처음에 한 개인의 독창으로 시작되지만, 이내 다른 환자들의 목소리가 겹겹이 쌓이는 다성 음악의 돌림노래 구조로 확장됩니다. 이는 홀로 골방에서 죽어갈지도 모른다는 고립감을 지우고 같은 고통을 공유하는 공동체의 거대한 울림으로 변모합니다.
 
 작품 속에서 음악은 에이즈라는 질병이 몸과 일상에 가하는 폭력적인 단절을 있는 그대로 노출하면서도, 록과 합창이라는 폭발적이고 연대적인 장르를 통해 개인의 고립된 고통을 광장으로 끌어냅니다. 이는 질병을 단순히 의학적 절망으로 가두지 않고, 살고자 하는 신체적 에너지와 인간 존엄성에 대한 집단적인 외침으로 승화시켰다는 점에서, 예술이 어떻게 환자의 언어가 되어 사회적 치유를 이끌어낼 수 있는지를 보여주는 묵직한 증명이라고 생각합니다.
-<img src="./image_of_Rent.png" alt="descriptinon" style="width:25%;" />
+<img width="1408" height="768" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
