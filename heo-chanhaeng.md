@@ -12,7 +12,7 @@ In this episode, the protagonist, Kim Shin, faces a devastating crossroads where
 
 [Inserted song,'Desperado part 1'](https://www.youtube.com/watch?v=kFeqC7HgFHc&list=RDkFeqC7HgFHc&start_radio=1)
 
-<img src="./Gemini_Generated_Image_l14y6ml14y6ml14y.png" alt="Desolate, kneeling, broken warrior" style="width:33%;" />
+<img src="./heo-chanhaeng.png" alt="Desolate, kneeling, broken warrior" style="width:33%;" />
 
 # 웹툰 캐슬 2: 만인지상 (50화)
 
@@ -20,4 +20,4 @@ In this episode, the protagonist, Kim Shin, faces a devastating crossroads where
 
 [삽입곡 '절망'](https://www.youtube.com/watch?v=kFeqC7HgFHc&list=RDkFeqC7HgFHc&start_radio=1)
 
-<img src="./Gemini_Generated_Image_l14y6ml14y6ml14y.png" alt="황량함, 무릎 꿇음, 부서진 전사" style="width:33%;" />
+<img src="./heo-chanhaeng.png" alt="황량함, 무릎 꿇음, 부서진 전사" style="width:33%;" />
