@@ -16,14 +16,12 @@ The work I chose is *Immortal Beloved*, a biographical film centered on the life
 
 ## 영상 링크
 
-- Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-lAPR5EWAs&start_radio=1
+- Sir Georg Solti  - “Ode to Joy”: https://www.youtube.com/watch?v=7qWbcosJdtU
 
 ## AI 생성 이미지
 
-<img src="./mogul-mowgli-ai-image.png.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
+<img src="./ra-haeri.png" alt="Beethoven in agony" style="width:40%;" />
 
-이 AI 생성 이미지는 무대 위에서 마이크를 든 래퍼의 모습과 병원, 면역세포, 신체의 균열을 암시하는 이미지를 함께 배치한다. 이는 “Mogambo”가 보여주는 강한 예술적 정체성과 자가면역질환으로 인해 흔들리는 몸 사이의 긴장을 시각적으로 표현한 것이다.
+이 AI 생성 이미지는 베토벤이 어두운 방에서 '환희의 송가' 악보를 쥐고 고뇌하는 모습과, 그의 청각 장애를 상징하는 소용돌이치는 침묵, 그리고 이를 뚫고 피어오르는 찬란한 음악적 에너지를 시각적으로 대비시켜 장애와 창조성의 공존을 표현했다.
 
-## 관련 항목
 
-- [서태원 님의 〈잠수종과 나비〉 항목](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/seo-taewon.md): 이 항목은 질병을 겪는 인물의 주관적 경험이 음악과 음향을 통해 전달된다는 점에서 본 글과 함께 참고할 수 있다.
