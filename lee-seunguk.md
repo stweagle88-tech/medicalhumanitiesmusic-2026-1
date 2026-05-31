@@ -6,7 +6,7 @@ Disease: Developmental speech fluency disorder
 ICD: 6A01.1
 ---
 
-<img src="./leeseung-uk.png" alt="King George VI delivering his wartime speech with Beethoven's Symphony No. 7 flowing around him" style="width:50%;" />
+<img src="./lee-seunguk.png" alt="King George VI delivering his wartime speech with Beethoven's Symphony No. 7 flowing around him" style="width:50%;" />
 
 # The King's Speech
 
