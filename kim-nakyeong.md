@@ -10,7 +10,7 @@ Composer: Aaron Zigman
 Type: Romance
 ---
 
-[치매와 관련된 우울증에 관한 작품](baik-jonghyeok.md)
+[치매와 관련된 우울증에 관한 작품 소개](baik-jonghyeok.md)
 
 # The Notebook
 
