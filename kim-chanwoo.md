@@ -2,8 +2,12 @@
 Title: Mogul Mowgli
 Year: 2020
 Genre: Film
+Creator: Bassam Tariq
 Disease: Idiopathic inflammatory myopathy
 ICD: 4A41
+Music: Mogambo
+Composer: Riz Ahmed and Thomas Calvert
+Type: Rap
 ---
 
 # Mogul Mowgli
@@ -34,4 +38,4 @@ From the perspective of illness narrative, the song gains a different meaning af
 
 ## 관련 항목
 
-- [서태원 님의 〈잠수종과 나비〉 항목](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/seo-taewon.md): 이 항목은 질병을 겪는 인물의 주관적 경험이 음악과 음향을 통해 전달된다는 점에서 본 글과 함께 참고할 수 있다.
+* [조대현 님의 〈Cancer〉 항목](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/cho-daehyun.md): 이 항목은 질병을 겪는 인물의 신체적 쇠약과 정서적 경험이 음악을 통해 표현된다는 점에서 본 글과 함께 참고할 수 있다.
