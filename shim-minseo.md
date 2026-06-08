@@ -1,12 +1,12 @@
 ---
-Title: joker
+Title: Joker
 Year: 2019
 Genre: Film
-Disease: mental illness
+Disease: Mental Illness
 ICD: ICD-11
 ---
 
-# joker
+# Joker
 
 In the film *Joker*, music functions not merely as a background element that explains the protagonist’s mental illness, but as a device that allows the audience to directly experience his unstable psychological state. In particular, the repetitive and slow cello melody used in the “Bathroom Dance” scene delicately expresses Arthur’s collapsing sense of self and chaotic inner world. This scene takes place after the subway killings, when Arthur dances alone in a bathroom. The music conveys not only his confusion and anxiety but also the emergence of a new identity as Joker, replacing his former self. The low and heavy tone creates feelings of depression and tension, while the gradually deepening melody suggests the growing pain and madness intensified by social isolation. Furthermore, the music communicates not only sadness but also anxiety, pressure, and an unsettling sense of discomfort. The repetitive cello phrases and slow tempo draw the audience into Arthur’s emotional world, making them experience the blurred boundary between reality and madness rather than observing him from a distance. Through this, the film goes beyond simply portraying mental illness and instead enables the audience to experience it on a sensory level. In this regard, referring to [Content of Other Movies] (@park-joowon.md) would also be helpful. Finally, [I will also add the most impressive YouTube link.](https://youtu.be/K61-tK7Xlzg?si=u3Cs0ewVTUT-GzSG).
 
