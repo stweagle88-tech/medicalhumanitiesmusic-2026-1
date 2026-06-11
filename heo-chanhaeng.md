@@ -26,4 +26,16 @@ Episode 50 of the webtoon Castle 2: Maninsangdan densely portrays the extreme ps
 <img src="./heo-chanhaeng.png" alt="황량함, 무릎 꿇음, 부서진 전사" style="width:33%;" />
 
 
+# Funeral music
+
+The song I would like to play at my funeral is Eminem’s . I believe that the music played at a funeral should fully reflect the trajectory of the deceased's life and function as a kind of 'illness narrative' or life narrative that carries the final message the deceased wishes to convey to the mourners. The title of this song, 'Lose Yourself,' means to immerse yourself in something to the point of losing your identity. 'Immersion' is the word that best captures my life, as my greatest strength and specialty is my ability to immerse myself in what I want to do and what I want to excel at with greater desperation than anyone else. Furthermore, this is the very message I wish to leave with my precious acquaintances at the end of my life. If someone were to ask me when I feel the greatest happiness in life, I would answer without hesitation that it is when I am deeply immersed in something. The vitality and sense of achievement in the life of someone who has truly experienced immersion are distinctly different from a life that has not. Although human suffering and the sense of loss in the face of the human limitation of death possess an 'inexpressibility' that resists full verbal objectification, music fills the void where language has failed, capturing the essence of the deceased within the soundscape. Because I want those who come to mourn my death to live a life without regrets, fully immersing themselves in the present moment rather than being consumed solely by sorrow, I choose  as my funeral song.
+
+[Lose Yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y&list=RDxFYQQPAOz7Y&start_radio=1)
+
+# 장례식 음악
+
+나의 장례식에서 틀 노래는 에미넴(Eminem)의 ****이다. 장례식에 울려 퍼질 음악은 고인의 삶의 궤적을 온전히 보여줄 수 있어야 하며, 마지막으로 장례식을 찾아온 조문객들에게 전하고 싶은 메시지를 담고 있는 일종의 '질환서사(Illness narrative)'이자 인생의 서사여야 한다고 생각한다. 이 노래의 제목인 'Lose Yourself'는 '너 자신을 잃어버릴 정도로 몰입하라'는 뜻을 지니고 있다. '몰입'은 나의 인생을 가장 잘 표현하는 단어인데, 내가 하고자 하는 일과 잘하고 싶은 일에 그 누구보다도 절실하게 몰입할 수 있다는 점이 나의 가장 큰 장점이자 특기이기 때문이다. 또한, 이는 내가 소중한 지인들에게 마지막으로 전해주고 싶은 메시지이기도 하다. 누군가 나에게 언제 인생에서 가장 큰 행복을 느끼냐고 묻는다면, 나는 주저 없이 어떤 것에 깊이 몰입할 때라고 답할 것이다. 진심으로 몰입을 경험해 본 사람의 인생이 갖는 활력과 성취감은 그렇지 않은 삶과 명확히 다르다. 비록 죽음이라는 인간의 한계 앞에서는 삶의 고통과 상실감이 언어로 다 표현될 수 없는 '표현 불가능성'을 지니지만, 음악은 그 말문이 막힌 자리를 채우며 고인의 본질을 소리풍경(Soundscape) 속에 붙잡아둔다. 나는 나의 죽음을 애도하러 찾아온 사람들이 슬픔에만 잠기기보다, 이 음악을 통해 현재에 온전히 몰입하는 후회 없는 인생을 살아가기를 바라기 때문에 를 나의 장례식 곡으로 선택하고자 한다.
+
+[Lose Yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y&list=RDxFYQQPAOz7Y&start_radio=1)
+
 
