@@ -13,6 +13,8 @@ Damien Chazelle’s film *Whiplash* (2014) powerfully depicts the psychological 
 
 Similarly, one could further explore the relationship between mental illness and music by referencing another student's paper that deals with schizophrenia. It would be possible to appreciate works that express the mental stress experienced by humans from the film [*Joker*](./lim-jungmin.md).
 
+"I would like Guns N' Roses' ["Knocking on heaven's door'](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1) to play at my funeral. Not only do I love Guns N' Roses in general, but this song in particular is written for a dying sheriff — so I feel like it would paint a picture of me standing at the gates of heaven for everyone there."
+
 <img src="./lee-kubin.png" alt="Abstrach image of Kyphosis" style="width:75%;" />
 
 # 위플래쉬
@@ -21,4 +23,4 @@ Similarly, one could further explore the relationship between mental illness and
 
 비슷하게 정신분열증에 대해 다루고 있는 다른 학생의 글을 참고하여 정신질환과 음악 간의 연관성을 더욱 깊이 탐구할 수 있을 것이다. 영화 [*조커*](./lim-jungmin.md)로부터 인간이 느끼는 정신적인 스트레스를 표현한 작품을 감상해볼 수 있을 것이다. 
 
-
+장례식에는 Guns N' Roses의 ["Knocking on heaven's door'](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1)가 울려퍼졌으면 좋겠다. 평소에 Guns N' Roses의 노래를 좋아할 뿐더러 그 중에서 "Knocking on heaven's door'은 죽어가는 보안관을 위한 노래라는 점에서, 천국의 문앞에 서있는 내 모습을 사람들에게 보여줄 수 있을 것 같기 때문이다.
