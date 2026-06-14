@@ -22,4 +22,4 @@ The piece I would like to have played at my funeral is [Piano Concerto in G Majo
 
 나의 장례식에서 연주되길 원하는 음악은 [M. Ravel - Piano Concerto in G Major, M. 83: II. Adagio assai](https://youtu.be/A0fFZndqh20?si=2njgp_tFEiQzTbIM)이다. 왜냐하면 이 곡은 내가 가장 좋아하는 클래식 음악이자, 가장 여운이 오래 남았던 곡이기 때문이다. 이 곡은 고요히 멍때리게 되는 고요한 순간부터 아름답고 슬프도록 아련한 순간까지 다양한 감정들을 보여준다. 나의 장례식에서도 많은 이들이 이 노래를 듣고 많은 여운을 남기며 오래도록 나를 기억해주었으면 한다.
 
-<img src="./shin-minsup.PNG" alt="A Kaleidoscope of Mathematics" style="width:50%;" />
+<img src="./shin-minsup.jpg" alt="A Kaleidoscope of Mathematics" style="width:50%;" />
