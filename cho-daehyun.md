@@ -5,7 +5,7 @@ Genre: Music
 Disease: Cancer
 ICD: C80.1
 ---
-<img width="562" height="702" alt="“Love, decay, and the fear of disappearing ”" src="https://github.com/user-attachments/assets/abcd5185-d973-46f0-8410-efaae3b946ed" />
+<img width="562" height="702" alt="“Love, decay, and the fear of disappearing ”" src="./cho-daehyun.png" />
 
 # cancer
 
